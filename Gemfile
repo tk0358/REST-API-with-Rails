@@ -14,6 +14,7 @@ gem 'factory_bot_rails'
 # gem 'active_model_serializers'
 gem 'fast_jsonapi', '~> 1.7.2', git: 'https://github.com/fast-jsonapi/fast_jsonapi'
 gem 'kaminari'
+gem "octokit", "~> 4.0"
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
